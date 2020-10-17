@@ -1,4 +1,4 @@
-👋 <h3>Hello World, I'm Ewerton!<h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"> 
+👋 <h3>Hello World, I'm Ewerton!<h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"> 
 
 <hr>
 
