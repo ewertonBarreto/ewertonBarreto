@@ -14,8 +14,7 @@
 <ul>
 
 <div class="footer" style="position absolute;">
-<hr>
 
 <img src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;">
-<img "width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonBarreto&hide=html&layout=compact&theme=buefy" />  
+<img "width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonBarreto&hide=html&layout=compact&theme=buefy" />  
 </div>
