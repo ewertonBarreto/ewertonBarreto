@@ -8,9 +8,10 @@
 <a href="https://www.facebook.com/ewerton.iohrann/" rel="nofollow">
   <img align="left" alt="Facebook" width="22px" src="https://camo.githubusercontent.com/cf4f8d2d15be36d8d350ce33929ef131091abc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">
 </a>
-<a href="mailto:arycleniobarros@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://camo.githubusercontent.com/36b0bd0d18932ab981126a5d4e8b2e5008efc7c4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;">
-</a>  
+<a href="mailto:ewerton.barreto@hotmail.com">
+  <img align="left" alt="Outlook" width="22px" src="https://camo.githubusercontent.com/36b0bd0d18932ab981126a5d4e8b2e5008efc7c4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f676d61696c2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" style="max-width:100%;">
+</a> 
+<hr>
 <p>=><strong>Hi</strong>, I'm Ewerton!</p>
 <p>I'm Brazilian, from São Paulo and a recent front-end developer. Leaning more and more every day is what inspires me to work with technology. I am 28 years old and my current focus is professional growth as a web developer. Feel free to get to know my work</p>
 <ul>
