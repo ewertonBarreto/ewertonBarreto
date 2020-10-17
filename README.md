@@ -1,21 +1,28 @@
-
-<div class="container" style="line-height: 1.9" "font-size: 18px!important" "margin-right: auto" "margin-left: auto" "display: flex;">
-<h3><a id="user-content--hello-world-im-ary--" class="anchor" aria-hidden="true" href="#-hello-world-im-ary--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hello World, I'm Ewerton!<a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"></a></h3> 
-
-
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content--hello-world-im-ewertonBarreto--" class="anchor" aria-hidden="true" href="#-hello-world-im-ewertonBarreto--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hello World, I'm Ewerton!  <a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;"></a></h3>
+<a href="https://www.linkedin.com/in/ewerton-barreto-918b0856//" rel="nofollow">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511947224332" rel="nofollow">
+  <img align="left" alt="Whatsapp" width="22px" src="https://camo.githubusercontent.com/e194eb5f6f06466a52722c0211d8fbf268ac6f8d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f77686174736170702e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" style="max-width:100%;">
+</a>
+<a href="https://www.facebook.com/ewerton.iohrann/" rel="nofollow">
+  <img align="left" alt="Facebook" width="22px" src="https://camo.githubusercontent.com/cf4f8d2d15be36d8d350ce33929ef131091abc78/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">
+</a>
+<br>
 <hr>
-
-</br>
-<p>=> <strong>Hi!</strong> I'm Brazilian, from São Paulo and I love what I do. I'm a recent front-end developer, learning every day and it inspires me! I am 28 years old and my current focus is professional growth as a web developer. Feel free to get to know my work.</p>
-
+<p>=><strong>Hi</strong>, I'm Ewerton!</p>
+<p>I'm Brazilian, from São Paulo and I love what I do. I'm a recent front-end developer, learning every day and it inspires me! I am 28 years old and my current focus is professional growth as a web developer. Feel free to get to know my work</p>
 <ul>
  <li>  🦾 I am currently studying pure Javascript, with CSS and HTML.  
- <li>  📫 How to reach me: https://www.linkedin.com/in/ewerton-barreto-918b0856/
-<ul>
-
-<div class="footer" style="align: left;">
-
+</ul>
 <hr>
-<img src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;">
-<img "width="400px" "position=initial;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonBarreto&hide=html&layout=compact&theme=buefy" />  
-</div>
+<p><strong>Languages and Tools:</strong></p>
+<p><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></code></p>
+<hr>
+<h4><a id="user-content--view-my-stats-on-github" class="anchor" aria-hidden="true" href="#-view-my-stats-on-github"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"><img src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width:100%;"></a> View my stats on Github</h4>
+<p><img align="left" src="https://camo.githubusercontent.com/47eb2be1b7270836e0d4301cb61a23714a4e568c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d65776572746f6e4261727265746f26686964653d68746d6c266c61796f75743d636f6d70616374267468656d653d6275656679" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonBarreto&amp;hide=html&amp;layout=compact&amp;theme=buefy" style="max-width:100%;"></p>
+</article>
