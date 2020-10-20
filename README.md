@@ -13,7 +13,7 @@
 </a> 
 <br>  
 <hr>
-<p>=><strong>Hi</strong>, I'm Ewerton!</p>
+<p>=><strong>Hi everyone</strong>, I'm Ewerton!</p>
 <p>I'm Brazilian, from São Paulo and a recent front-end developer. Leaning more and more every day is what inspires me to work with technology. I am 28 years old and my current focus is professional growth as a web developer. Feel free to get to know my work</p>
 <ul>
  <li>  🦾 I am currently studying pure Javascript, with CSS and HTML.  
